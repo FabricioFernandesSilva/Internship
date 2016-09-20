@@ -5,7 +5,7 @@ Tarefas:
 - [x] Instalar sublime text como editor, instalar git, configurar uma chave de ssh (ssh-keygen)
 - [x] Criar uma conta no github (é gratuito) e subir sua chave nele (me segue lá: https://github.com/andersoncardoso/ )
 - [x] Instalar ruby (de preferência usando rvm -> http://rvm.io )
-- [ ] Criar um repositório no github e subir algum código ruby simples nele (pode ser um hello world, uma calculadora, qquer coisa, vc só precisa aprender a lidar com esse fluxo)
+- [x] Criar um repositório no github e subir algum código ruby simples nele (pode ser um hello world, uma calculadora, qquer coisa, vc só precisa aprender a lidar com esse fluxo)
 
 Leituras:
 - [x] http://opensoul.org/2015/05/14/open-source-basics/
